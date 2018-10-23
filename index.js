@@ -1,6 +1,7 @@
 
 function add(a,b) {
-  var number += 5;
+  var number
+  number = (a-b)
   
 }
 
