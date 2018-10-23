@@ -20,9 +20,9 @@ function divide(a,b) {
   return number
 }
 function inc(n) {
-  var number
+  
   n++
-  return number
+  return n
 }
 function dec(n) {
   var number
