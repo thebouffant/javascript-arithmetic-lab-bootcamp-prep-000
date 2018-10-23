@@ -1,12 +1,12 @@
 
 function add(a,b) {
-  var number
-  number = (a-b)
   
+  number = (a-b)
+  return number
 }
 
 function subtract(a,b) {
-  number += 5
+  
 }
 
 
