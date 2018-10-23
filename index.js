@@ -21,7 +21,7 @@ function divide(a,b) {
 }
 function inc(n) {
   var number
-  number +=n
+  n++
   return number
 }
 function dec(n) {
